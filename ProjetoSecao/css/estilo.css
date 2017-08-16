@@ -1,0 +1,26 @@
+header{
+    border: 1px solid red;
+}
+
+main{
+    border: 1px solid black;
+}
+
+ul#principal{
+    list-style: none;
+    text-align: center;
+}
+
+ul#principal li{
+    display: inline;
+    border: 2px solid blue;
+}
+
+footer{
+    border: 3px solid black;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
