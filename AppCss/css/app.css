@@ -1,0 +1,15 @@
+h1{
+    font-family: verdana;
+    color: brown;
+    border: 1px solid black;
+}
+
+p{
+    color: red;
+}
+
+header {
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+}
